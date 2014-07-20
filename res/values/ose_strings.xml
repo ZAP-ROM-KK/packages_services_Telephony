@@ -206,4 +206,9 @@
     <string name="detailed_incall_info_title">Detailed incall information</string>
     <string name="detailed_incall_info_summary">Display additional information (organization, position, city and nickname) on full incall screen.</string>
 
+    <!-- Incoming call style -->
+    <string name="incoming_call_style_title">Incoming call screen style</string>
+    <string name="incoming_call_style_classic">Classic</string>
+    <string name="incoming_call_style_fullscreen_photo">Fullscreen caller photo</string>
+
 </resources>
