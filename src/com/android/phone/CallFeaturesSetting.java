@@ -65,7 +65,7 @@ import android.view.MenuItem;
 import android.view.WindowManager;
 import android.widget.ListAdapter;
 
-import com.android.internal.util.ose.DeviceUtils;
+import com.android.internal.util.zap.DeviceUtils;
 import com.android.internal.telephony.CallForwardInfo;
 import com.android.internal.telephony.CommandsInterface;
 import com.android.internal.telephony.Phone;

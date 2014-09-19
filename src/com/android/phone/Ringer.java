@@ -37,8 +37,8 @@ import android.os.Vibrator;
 import android.provider.Settings;
 import android.util.Log;
 
-import com.android.internal.util.ose.DeviceUtils;
-import com.android.internal.util.ose.TorchConstants;
+import com.android.internal.util.zap.DeviceUtils;
+import com.android.internal.util.zap.TorchConstants;
 import com.android.internal.telephony.Phone;
 /**
  * Ringer manager for the Phone app.
